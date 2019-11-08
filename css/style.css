@@ -140,6 +140,12 @@ p {
 	  font-weight:bold;
 	  
   }
+  a:hover{
+	  color:  rgb(101, 70, 158);
+  }
+  a:visited{
+	  color:rgb(42, 55, 61);
+  }
 .tm-gallery-content { padding-top: 180px; }
 
 .tm-content-box-right {
