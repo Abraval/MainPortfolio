@@ -259,6 +259,9 @@ p {
 .tm-copyright-text a {
 	color: #fff;
 }
+.tm-copyright-text a:hover {
+	color: rgb(163, 156, 156);
+}
 
 /* Media Queries */
 @media screen and (max-width: 991px) {
